@@ -4,6 +4,7 @@ A Next.js app demonstrating smooth theme transitions with a circular wave effect
 
 ## Demo
 
+https://github.com/user-attachments/assets/13b82ec2-64e9-4fba-9bde-9b02f577c4af
 
 
 ## Getting Started
